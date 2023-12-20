@@ -9,12 +9,12 @@ function Navbars() {
     return (
         <>
             <Navbar expand="lg" className="navbar-container">
-                <Container>
+                <Container style={{ marginLeft: "7%", padding: "1% 2%" }}>
                     <Navbar.Brand href="#home" className="navbar-brand">
                         MediShift
                     </Navbar.Brand>
                     <Navbar.Toggle />
-                    <Navbar.Collapse className="justify-content-end">
+                    <Navbar.Collapse>
                         <Nav className="me-3">
                             <Nav.Link href="#home" className="navbar-item">
                                 Home

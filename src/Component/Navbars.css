@@ -14,8 +14,13 @@
 
 .navbar-item {
     color: #1c6dd0;
+    font-size: 1.1rem;
 }
 
 .navbar-item:hover {
     color: #11417d;
+}
+
+.nav-containers {
+    margin: auto 5%;
 }

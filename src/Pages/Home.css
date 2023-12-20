@@ -1,0 +1,46 @@
+.home-container {
+    padding: 2% 12%;
+    text-align: justify;
+    color: #000;
+}
+
+.home-h1 {
+    color: #1c6dd0;
+    margin-top: 2%;
+    text-align: center;
+    font-weight: bold;
+}
+
+.home-h3 {
+    font-weight: bold;
+    color: #1c6dd0;
+    text-align: center;
+    margin-top: 2%;
+}
+
+.home-h5 {
+    font-weight: bold;
+    color: #1c6dd0;
+    margin-top: 2%;
+}
+
+.home-grid-container1 {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    margin-top: 7%;
+    grid-gap: 5%;
+    align-items: center;
+    justify-content: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    font-size: 1.1rem;
+}
+
+p {
+    font-size: 1.1rem;
+}
