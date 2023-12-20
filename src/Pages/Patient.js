@@ -35,7 +35,7 @@ function Patient() {
                             <td>Oncologist</td>
                         </tr>
                         <tr>
-                            <th>Contact No.</th>
+                            <th style={{ width: "60%" }}>Contact No.</th>
                             <td>9698521000</td>
                         </tr>
                         <tr>
@@ -67,7 +67,7 @@ function Patient() {
                             <td>Cardiologist</td>
                         </tr>
                         <tr>
-                            <th>Contact No.</th>
+                            <th style={{ width: "60%" }}>Contact No.</th>
                             <td>9690521000</td>
                         </tr>
                         <tr>
@@ -99,7 +99,7 @@ function Patient() {
                             <td>Neurosurgeon</td>
                         </tr>
                         <tr>
-                            <th>Contact No.</th>
+                            <th style={{ width: "60%" }}>Contact No.</th>
                             <td>9698521000</td>
                         </tr>
                         <tr>
@@ -131,7 +131,7 @@ function Patient() {
                             <td>Orthopaedist</td>
                         </tr>
                         <tr>
-                            <th>Contact No.</th>
+                            <th style={{ width: "60%" }}>Contact No.</th>
                             <td>9698521000</td>
                         </tr>
                         <tr>
@@ -163,7 +163,7 @@ function Patient() {
                             <td>Audiologist</td>
                         </tr>
                         <tr>
-                            <th>Contact No.</th>
+                            <th style={{ width: "60%" }}>Contact No.</th>
                             <td>9698521000</td>
                         </tr>
                         <tr>
@@ -195,7 +195,7 @@ function Patient() {
                             <td>Dentist</td>
                         </tr>
                         <tr>
-                            <th>Contact No.</th>
+                            <th style={{ width: "60%" }}>Contact No.</th>
                             <td>9698521000</td>
                         </tr>
                         <tr>
@@ -227,7 +227,7 @@ function Patient() {
                             <td>Endocrinologist</td>
                         </tr>
                         <tr>
-                            <th>Contact No.</th>
+                            <th style={{ width: "60%" }}>Contact No.</th>
                             <td>9698521000</td>
                         </tr>
                         <tr>
