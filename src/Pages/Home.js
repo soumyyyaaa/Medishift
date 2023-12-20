@@ -1,7 +1,6 @@
 import React from "react";
 import homeImg from "../Images/home-img.jpg";
-import patientImg from "../Images/patient.png";
-import doctorImg from "../Images/doctor.png";
+
 import "../Pages/Home.css";
 
 function Home() {

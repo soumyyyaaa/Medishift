@@ -9,7 +9,7 @@ function Navbars() {
     return (
         <>
             <Navbar expand="lg" className="navbar-container">
-                <Container style={{ marginLeft: "7%", padding: "1% 2%" }}>
+                <Container style={{ marginLeft: "7%", padding: "0.5% 2%" }}>
                     <Navbar.Brand href="#home" className="navbar-brand">
                         MediShift
                     </Navbar.Brand>

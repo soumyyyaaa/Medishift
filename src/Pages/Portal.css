@@ -1,4 +1,28 @@
 .portal-container {
+    padding: 5% 12%;
+    text-align: center;
+}
+
+.portal-grid-container {
     display: grid;
     grid-template-columns: auto auto;
+    align-items: center;
+    grid-gap: 15%;
+}
+
+.portal-grid-item {
+    border: 2px solid #1c6dd0;
+    padding: 10%;
+    background: none;
+}
+
+.portal-grid-item:hover {
+    border-color: #f5f5f5;
+    background-color: #f5f5f5;
+    transition: 0.4s;
+}
+
+.portal-h4 {
+    margin-top: 5%;
+    font-weight: bold;
 }

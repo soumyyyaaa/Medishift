@@ -1,0 +1,61 @@
+.patient-container {
+    padding: 2% 12%;
+}
+
+.doctor-name {
+    display: block;
+    width: 20%;
+    text-align: left;
+    margin: 3% 0;
+    padding: 1%;
+    border: 2px solid #1c6dd0;
+    background: none;
+    color: #000;
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+.doctor-name:hover {
+    background-color: #f5f5f5;
+    border-color: #f5f5f5;
+    transition: 0.4s;
+}
+
+.doctor-detail {
+    padding: 0 2%;
+    margin: 0;
+    text-align: justify;
+}
+
+.a0 {
+    display: none;
+}
+
+.a1 {
+    display: none;
+}
+
+.a2 {
+    display: none;
+}
+
+.a3 {
+    display: none;
+}
+
+.a4 {
+    display: none;
+}
+
+.a5 {
+    display: none;
+}
+
+.a6 {
+    display: none;
+}
+
+th,
+td {
+    padding: 1%;
+}
