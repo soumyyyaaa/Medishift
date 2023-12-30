@@ -26,3 +26,8 @@
     margin-top: 5%;
     font-weight: bold;
 }
+
+.portal-item {
+    text-decoration: none;
+    color: #000;
+}
